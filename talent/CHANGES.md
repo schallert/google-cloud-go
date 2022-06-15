@@ -1,5 +1,16 @@
 # Changes
 
+## [1.0.0](https://github.com/googleapis/google-cloud-go/compare/talent/v0.7.0...talent/v1.0.0) (2022-06-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **talent:** remove Application and Profile services and and related protos, enums, and messages
+
+### Bug Fixes
+
+* **talent:** remove Application and Profile services and and related protos, enums, and messages ([4134941](https://github.com/googleapis/google-cloud-go/commit/41349411e601f57dc6d9e246f1748fd86d17bb15))
+
 ## [0.7.0](https://github.com/googleapis/google-cloud-go/compare/talent/v0.6.0...talent/v0.7.0) (2022-06-07)
 
 
