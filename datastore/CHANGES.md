@@ -1,5 +1,13 @@
 # Changes
 
+## [1.8.0](https://github.com/googleapis/google-cloud-go/compare/datastore-v1.7.0...datastore/v1.8.0) (2022-06-15)
+
+
+### Features
+
+* **datastore:** add better version metadata to calls ([d1ad921](https://github.com/googleapis/google-cloud-go/commit/d1ad921d0322e7ce728ca9d255a3cf0437d26add))
+* **datastore:** set versionClient to module version ([55f0d92](https://github.com/googleapis/google-cloud-go/commit/55f0d92bf112f14b024b4ab0076c9875a17423c9))
+
 ## [1.7.0](https://github.com/googleapis/google-cloud-go/compare/datastore/v1.6.0...datastore/v1.7.0) (2022-05-09)
 
 
